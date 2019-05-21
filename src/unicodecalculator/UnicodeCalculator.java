@@ -21,6 +21,6 @@ public class UnicodeCalculator {
 			r2 += s2.charAt(i);
 		}
 
-	    System.out.println("Absolute difference between the unicode values of each string: " + Math.abs(r2-r1));
+		System.out.println("Absolute difference between the unicode values of each string: " + Math.abs(r2-r1));
 	}
 }
