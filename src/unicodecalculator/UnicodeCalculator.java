@@ -19,6 +19,8 @@ public class UnicodeCalculator {
 			System.out.println(x+": "+(int)x);
 			r1 += x;
 		}
+		
+		System.out.println("************************");
 
 		var r2 = 0;
 		for (int i = 0; i < s2.length(); i++) {
