@@ -30,6 +30,6 @@ public class UnicodeCalculator {
 		}
 		
 		System.out.println("************************");
-		System.out.println("Absolute difference: " + Math.abs(r2-r1));
+		System.out.println("Absolute difference between strings: " + Math.abs(r2-r1));
 	}
 }
